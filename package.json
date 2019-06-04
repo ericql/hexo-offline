@@ -30,7 +30,7 @@
     "lint-staged": "8.1.7",
     "prettier": "1.17.1",
     "rimraf": "2.6.3",
-    "yaspeller-ci": "1.0.0"
+    "yaspeller-ci": "1.0.1"
   },
   "peerDependencies": {
     "hexo": "^3.2.2"
